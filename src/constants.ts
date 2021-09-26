@@ -22,5 +22,5 @@ export const ISSUE_TEMPLATE = [
 
 export const COMMENT_WORDS = {
   invalidIssue:
-    "Sorry, we have format requirements for the issue. Your issue will be closed.\nRecommend to use [arco-issue-helper](https://arco-issue.web.bytedance.net/new-issue) . \n\n 很抱歉，我们对issue有格式要求。你的issue将被关闭。\n推荐使用[arco-issue-helper](https://arco-issue.web.bytedance.net/new-issue)",
+    "Sorry, we have format requirements for the issue. Your issue will be closed.\nRecommend to use [new-issue](https://new-issue.vuejs.org/?repo=vuejs/vue)",
 };

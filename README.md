@@ -30,4 +30,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2021 yangyuhan.79 <yangyuhan.79@bytedance.com>
+[ISC](LICENSE) © 2021 yangyuhan.79
