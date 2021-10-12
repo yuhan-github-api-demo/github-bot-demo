@@ -20,7 +20,11 @@ export = (app: Probot) => {
   });
 
   app.on("create", async (context) => {
-    console.log(context.payload);
+    console.log("!~!~!", context.payload);
+  });
+
+  app.on("delete", async (context) => {
+    console.log("!~!~!", context.payload);
   });
 
   // For more information on building apps:
